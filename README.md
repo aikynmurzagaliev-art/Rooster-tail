@@ -24,13 +24,12 @@ Engine: Unreal Engine (UE)
 Language: C++
 Visual Scripting: Blueprints
 
-# Screenshots
-soon
-
 # Video
-soon
+YpuTube - https://youtu.be/ZSRi9dW0LM0
 
 # Download
 itch.io - https://aikyn-murzagaliyev.itch.io/roosters-tail
 
+
+All assets are downloaded from EpicGamesFab.
 Developed with Unreal Engine 5
